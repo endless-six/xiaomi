@@ -1,0 +1,2 @@
+# xiaomi
+mock xiaomi mall
